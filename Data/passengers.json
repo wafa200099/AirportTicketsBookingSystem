@@ -1,0 +1,17 @@
+﻿[
+  {
+    "PassengerId": "PAX001",
+    "FullName": "John Doe",
+    "Email": "johndoe@example.com"
+  },
+  {
+    "PassengerId": "PAX002",
+    "FullName": "Jane Smith",
+    "Email": "janesmith@example.com"
+  },
+  {
+    "PassengerId": "PAX003",
+    "FullName": "Emily Johnson",
+    "Email": "emilyj@example.com"
+  }
+]

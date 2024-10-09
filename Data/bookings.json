@@ -1,0 +1,34 @@
+[
+  {
+    "BookingId": "BKG002",
+    "PassengerId": "PAX002",
+    "FlightId": "FL124",
+    "ClassType": "Economy",
+    "Price": 400,
+    "BookingDate": "2024-10-02T00:00:00"
+  },
+  {
+    "BookingId": "BKG003",
+    "PassengerId": "PAX003",
+    "FlightId": "FL125",
+    "ClassType": "First",
+    "Price": 720,
+    "BookingDate": "2024-10-03T00:00:00"
+  },
+  {
+    "BookingId": "0d293cf0-6d86-4f31-93c9-1432fcb80ebf",
+    "PassengerId": "PAX001",
+    "FlightId": "FL123",
+    "ClassType": "Economy",
+    "Price": 300,
+    "BookingDate": "2024-10-09T17:33:00.0809472+03:00"
+  },
+  {
+    "BookingId": "24daab2d-cc5f-4f0c-8797-90a00ddd90fb",
+    "PassengerId": "PAX002",
+    "FlightId": "FL124",
+    "ClassType": "Business",
+    "Price": 600,
+    "BookingDate": "2024-10-09T17:34:13.0178398+03:00"
+  }
+]

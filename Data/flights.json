@@ -1,0 +1,35 @@
+﻿[
+  {
+    "FlightId": "FL123",
+    "DepartureCountry": "USA",
+    "DestinationCountry": "Canada",
+    "DepartureDate": "2024-11-01",
+    "DepartureAirport": "JFK",
+    "ArrivalAirport": "YYZ",
+    "EconomyPrice": 300,
+    "BusinessPrice": 500,
+    "FirstClassPrice": 700
+  },
+  {
+    "FlightId": "FL124",
+    "DepartureCountry": "USA",
+    "DestinationCountry": "UK",
+    "DepartureDate": "2024-12-01",
+    "DepartureAirport": "JFK",
+    "ArrivalAirport": "LHR",
+    "EconomyPrice": 400,
+    "BusinessPrice": 600,
+    "FirstClassPrice": 800
+  },
+  {
+    "FlightId": "FL125",
+    "DepartureCountry": "Canada",
+    "DestinationCountry": "USA",
+    "DepartureDate": "2024-11-15",
+    "DepartureAirport": "YYZ",
+    "ArrivalAirport": "JFK",
+    "EconomyPrice": 320,
+    "BusinessPrice": 520,
+    "FirstClassPrice": 720
+  }
+]
